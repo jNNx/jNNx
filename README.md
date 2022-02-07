@@ -1,4 +1,2 @@
 ## Welcome to my profile
-### I'm a backend **Laravel** developer from Argentina.
-### I'm also interested on NodeJs with ExpressJs framework.
-
+### I'm a backend developer, now using **Laravel** but I'm also interested on **ExpressJs** framework.
